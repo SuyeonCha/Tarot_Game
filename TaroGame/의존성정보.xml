@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<JDepend>
+    <Packages>
+
+        <Package name="TodayTaro">
+            <Stats>
+                <TotalClasses>177</TotalClasses>
+                <ConcreteClasses>177</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>0</Ce>
+                <A>0</A>
+                <I>0</I>
+                <D>1</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="ChooseMenu.java">
+                    TodayTaro.ChooseMenu
+                </Class>
+                <Class sourceFile="ChooseMenu.java">
+                    TodayTaro.ChooseMenu$1
+                </Class>
+                <Class sourceFile="ChooseMenu.java">
+                    TodayTaro.ChooseMenu$2
+                </Class>
+                <Class sourceFile="ChooseMenu.java">
+                    TodayTaro.ChooseMenu$3
+                </Class>
+                <Class sourceFile="History.java">
+                    TodayTaro.History
+                </Class>
+                <Class sourceFile="History.java">
+                    TodayTaro.History$1
+                </Class>
+                <Class sourceFile="HowTo.java">
+                    TodayTaro.HowTo
+                </Class>
+                <Class sourceFile="HowTo.java">
+                    TodayTaro.HowTo$1
+                </Class>
+                <Class sourceFile="JoinTaro.java">
+                    TodayTaro.JoinTaro
+                </Class>
+                <Class sourceFile="JoinTaro.java">
+                    TodayTaro.JoinTaro$1
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$1
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$10
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$11
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$12
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$13
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$14
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$15
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$16
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$17
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$18
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$19
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$2
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$20
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$21
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$22
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$23
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$24
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$25
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$26
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$27
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$28
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$29
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$3
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$30
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$31
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$32
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$33
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$34
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$35
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$36
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$37
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$38
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$39
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$4
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$40
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$41
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$42
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$43
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$44
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$45
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$46
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$47
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$48
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$49
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$5
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$50
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$51
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$52
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$53
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$54
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$55
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$56
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$57
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$58
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$59
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$6
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$60
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$61
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$62
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$63
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$64
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$65
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$66
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$67
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$68
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$69
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$7
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$70
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$71
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$72
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$73
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$74
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$75
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$76
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$8
+                </Class>
+                <Class sourceFile="LoveTaro.java">
+                    TodayTaro.LoveTaro$9
+                </Class>
+                <Class sourceFile="LoveTaroResult.java">
+                    TodayTaro.LoveTaroResult
+                </Class>
+                <Class sourceFile="LoveTaroResult.java">
+                    TodayTaro.LoveTaroResult$1
+                </Class>
+                <Class sourceFile="LoveTaroResult.java">
+                    TodayTaro.LoveTaroResult$2
+                </Class>
+                <Class sourceFile="Main.java">
+                    TodayTaro.Main
+                </Class>
+                <Class sourceFile="Main.java">
+                    TodayTaro.Main$1
+                </Class>
+                <Class sourceFile="Music.java">
+                    TodayTaro.Music
+                </Class>
+                <Class sourceFile="NameInput.java">
+                    TodayTaro.NameInput
+                </Class>
+                <Class sourceFile="NameInput.java">
+                    TodayTaro.NameInput$1
+                </Class>
+                <Class sourceFile="NameInput.java">
+                    TodayTaro.NameInput$2
+                </Class>
+                <Class sourceFile="NameInput.java">
+                    TodayTaro.NameInput$AlertActionListener
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$1
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$10
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$11
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$12
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$13
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$14
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$15
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$16
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$17
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$18
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$19
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$2
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$20
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$21
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$22
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$23
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$24
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$25
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$26
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$27
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$28
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$29
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$3
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$30
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$31
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$32
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$33
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$34
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$35
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$36
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$37
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$38
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$39
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$4
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$40
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$41
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$42
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$43
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$44
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$45
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$46
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$47
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$48
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$49
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$5
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$50
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$51
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$52
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$53
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$54
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$55
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$56
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$57
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$58
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$59
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$6
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$60
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$61
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$62
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$63
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$64
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$65
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$66
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$67
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$68
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$69
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$7
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$70
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$71
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$72
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$73
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$74
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$75
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$76
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$8
+                </Class>
+                <Class sourceFile="TodayTaro.java">
+                    TodayTaro.TodayTaro$9
+                </Class>
+                <Class sourceFile="TodayTaroResult.java">
+                    TodayTaro.TodayTaroResult
+                </Class>
+                <Class sourceFile="TodayTaroResult.java">
+                    TodayTaro.TodayTaroResult$1
+                </Class>
+                <Class sourceFile="TodayTaroResult.java">
+                    TodayTaro.TodayTaroResult$2
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+    </Packages>
+
+    <Cycles>
+    </Cycles>
+</JDepend>
