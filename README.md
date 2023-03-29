@@ -17,3 +17,8 @@
 
 ## 타겟층
 10대 ~ 40대 등 남녀노소 상관없이 운세에 관심 있는 사람들, 연애에 대한 고민 혹은 걱정이 있는 사람들, 앞으로의 취업에 걱정하는 취준생들, 앞으로의 금전에 걱정하는 사람들 모두 차별성 없이 쉽고 간단하게 버튼하나로 ‘오늘의 타로’를 이용할 수 있습니다.
+
+## 구현 과정
+<img width="60%" src="https://user-images.githubusercontent.com/81402961/228571644-c2af353d-348e-44d4-bcfd-69bc9f44c67b.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/81402961/228571554-0c633785-dfa6-433a-bd1a-f01d988d2c74.PNG"/>
+
